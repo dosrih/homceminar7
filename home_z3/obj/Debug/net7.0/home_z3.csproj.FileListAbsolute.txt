@@ -1,0 +1,15 @@
+C:\Users\hp\home_zzz\home_z3\bin\Debug\net7.0\home_z3.exe
+C:\Users\hp\home_zzz\home_z3\bin\Debug\net7.0\home_z3.deps.json
+C:\Users\hp\home_zzz\home_z3\bin\Debug\net7.0\home_z3.runtimeconfig.json
+C:\Users\hp\home_zzz\home_z3\bin\Debug\net7.0\home_z3.dll
+C:\Users\hp\home_zzz\home_z3\bin\Debug\net7.0\home_z3.pdb
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.csproj.AssemblyReference.cache
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.AssemblyInfoInputs.cache
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.AssemblyInfo.cs
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.csproj.CoreCompileInputs.cache
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.dll
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\refint\home_z3.dll
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.pdb
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\home_z3.genruntimeconfig.cache
+C:\Users\hp\home_zzz\home_z3\obj\Debug\net7.0\ref\home_z3.dll
