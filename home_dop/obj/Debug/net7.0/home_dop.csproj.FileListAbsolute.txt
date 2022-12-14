@@ -1,0 +1,15 @@
+C:\Users\hp\home_zzz\home_dop\bin\Debug\net7.0\home_dop.exe
+C:\Users\hp\home_zzz\home_dop\bin\Debug\net7.0\home_dop.deps.json
+C:\Users\hp\home_zzz\home_dop\bin\Debug\net7.0\home_dop.runtimeconfig.json
+C:\Users\hp\home_zzz\home_dop\bin\Debug\net7.0\home_dop.dll
+C:\Users\hp\home_zzz\home_dop\bin\Debug\net7.0\home_dop.pdb
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.csproj.AssemblyReference.cache
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.AssemblyInfoInputs.cache
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.AssemblyInfo.cs
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.csproj.CoreCompileInputs.cache
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.dll
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\refint\home_dop.dll
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.pdb
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\home_dop.genruntimeconfig.cache
+C:\Users\hp\home_zzz\home_dop\obj\Debug\net7.0\ref\home_dop.dll
