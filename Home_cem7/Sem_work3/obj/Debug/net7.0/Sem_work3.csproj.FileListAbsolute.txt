@@ -1,0 +1,15 @@
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.csproj.AssemblyReference.cache
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.AssemblyInfoInputs.cache
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.AssemblyInfo.cs
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Home_cem7\Sem_work3\bin\Debug\net7.0\Sem_work3.exe
+C:\Users\hp\Home_cem7\Sem_work3\bin\Debug\net7.0\Sem_work3.deps.json
+C:\Users\hp\Home_cem7\Sem_work3\bin\Debug\net7.0\Sem_work3.runtimeconfig.json
+C:\Users\hp\Home_cem7\Sem_work3\bin\Debug\net7.0\Sem_work3.dll
+C:\Users\hp\Home_cem7\Sem_work3\bin\Debug\net7.0\Sem_work3.pdb
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.dll
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\refint\Sem_work3.dll
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.pdb
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\Sem_work3.genruntimeconfig.cache
+C:\Users\hp\Home_cem7\Sem_work3\obj\Debug\net7.0\ref\Sem_work3.dll

@@ -1,0 +1,15 @@
+C:\Users\hp\Home_cem7\Sem_work\bin\Debug\net7.0\Sem_work.exe
+C:\Users\hp\Home_cem7\Sem_work\bin\Debug\net7.0\Sem_work.deps.json
+C:\Users\hp\Home_cem7\Sem_work\bin\Debug\net7.0\Sem_work.runtimeconfig.json
+C:\Users\hp\Home_cem7\Sem_work\bin\Debug\net7.0\Sem_work.dll
+C:\Users\hp\Home_cem7\Sem_work\bin\Debug\net7.0\Sem_work.pdb
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.csproj.AssemblyReference.cache
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.AssemblyInfoInputs.cache
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.AssemblyInfo.cs
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.csproj.CoreCompileInputs.cache
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.dll
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\refint\Sem_work.dll
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.pdb
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\Sem_work.genruntimeconfig.cache
+C:\Users\hp\Home_cem7\Sem_work\obj\Debug\net7.0\ref\Sem_work.dll
